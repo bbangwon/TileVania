@@ -8799,10 +8799,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 7444576346608219059, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
-      propertyPath: m_WasSpriteAssigned
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 8226977433337584875, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
       propertyPath: m_Name
       value: Ginger (Player)
