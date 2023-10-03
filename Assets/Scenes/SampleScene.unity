@@ -229,7 +229,7 @@ GameObject:
   - component: {fileID: 567541923}
   - component: {fileID: 567541925}
   - component: {fileID: 567541924}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Plarforms Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
