@@ -15277,25 +15277,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1548820687513466629, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
-      propertyPath: jumpSpeed
-      value: 25
+    - target: {fileID: 2187899653096268540, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
+      propertyPath: m_Size.x
+      value: 0.4861126
       objectReference: {fileID: 0}
-    - target: {fileID: 5741570849340241301, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
-      propertyPath: m_GravityScale
-      value: 8
+    - target: {fileID: 2187899653096268540, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
+      propertyPath: m_Size.y
+      value: 0.110097885
       objectReference: {fileID: 0}
-    - target: {fileID: 5741570849340241301, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
+    - target: {fileID: 2187899653096268540, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.028201103
+      objectReference: {fileID: 0}
+    - target: {fileID: 2187899653096268540, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.44495106
       objectReference: {fileID: 0}
     - target: {fileID: 8226977433337584875, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
       propertyPath: m_Name
       value: Ginger (Player)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226977433337584875, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
-      propertyPath: m_Layer
-      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 8801202370625180628, guid: 586191208af0c4b47aa72c34f75d16ee, type: 3}
       propertyPath: m_LocalPosition.x
