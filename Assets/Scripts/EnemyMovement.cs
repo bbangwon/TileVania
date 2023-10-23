@@ -17,6 +17,9 @@ public class EnemyMovement : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D otherCollider)
     {
+        if (otherCollider.gameObject.layer == LayerMask.NameToLayer("Player"))
+            return;
+
         moveSpeed = -moveSpeed;
         FlipEnemyFacing();
     }
