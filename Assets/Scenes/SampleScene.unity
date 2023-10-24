@@ -4657,7 +4657,7 @@ GameObject:
   - component: {fileID: 718726570}
   m_Layer: 11
   m_Name: Goober (Enemy)
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15615,63 +15615,6 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
---- !u!1001 &7323234647710834074
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 677240286066673928, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1872610237466334218, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
-      propertyPath: m_Name
-      value: Bullet
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 79f3a9aa5a1041244a07321fea376b0f, type: 3}
 --- !u!1001 &7612874047921536265
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15742,4 +15685,3 @@ SceneRoots:
   - {fileID: 1983153863}
   - {fileID: 7612874047921536265}
   - {fileID: 718726564}
-  - {fileID: 7323234647710834074}
